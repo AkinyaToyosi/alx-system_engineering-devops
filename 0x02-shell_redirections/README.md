@@ -44,3 +44,11 @@
 
 22-users_and_homes: This script displays all users and their home directories, sorted by users
 
+
+100-empty_casks: This script finds all empty files and directories in the current directory and all sub-directories
+
+101-gifs: This script lists all the files with a .gif extension in the current directory and all its sub-directories
+
+102-acrostic: This script decodes acrostics that use the first leter of each line
+
+103-the_biggest_fan: This script parses web servers in TSV format as input and displays the 11 hosts or IP addresses which did the most requests
